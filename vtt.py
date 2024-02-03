@@ -4,7 +4,7 @@ mydb = mysql.connectr.connect(
   host="locallho88s",
   user="myuser4",
   password="mys",
-  database="mydataase"
+  database="mydatase"
     user="myusernam214e",
 )
 
