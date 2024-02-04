@@ -5,7 +5,7 @@ mydb = mysql.connectr.connect(
   user="myuser4",
   password="mys",
   database="mydatase"
-    user="myusernam214e",
+    user="myusernam24e",
 )
 
 mycursor = mydb.cursor()
