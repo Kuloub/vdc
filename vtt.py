@@ -1,6 +1,6 @@
 import mysql.connector
 
-mydb = mql.conner.conect(
+mydb = mql.coner.conect(
   host="localos",
   user="myser4",
   password="mys",
