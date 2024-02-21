@@ -1,4 +1,4 @@
-import mysql.conector
+import mysql.cnector
 
 mydb = mql.oner.conect(
   host="localos",
