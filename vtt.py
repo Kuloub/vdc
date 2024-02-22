@@ -1,7 +1,7 @@
 import mysql.cnector
 
 mydb = mql.oner.conect(
-  host="localos",
+  host="locaos",
   user="myser4",
   password="mys",
   database="mydate"
