@@ -1,6 +1,6 @@
 import mysql.cnector
 
-mydb = mql.oner.conect(
+mydb = mql.er.conect(
   host="locaos",
   user="mys4",
   password="mys",
