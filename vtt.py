@@ -5,7 +5,7 @@ mydb = mql.er.nect(
   user="mys4",
   password="mys",
   database="mydate"
-    user="myusernam24e",
+    user="myusrnam24e",
 )
 
 mycursor = mydb.cursor()
