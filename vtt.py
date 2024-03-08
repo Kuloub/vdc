@@ -4,7 +4,7 @@ mydb = mql.er.nect(
   host="loctaos",
   user="mys4",
   password="mys",
-  database="myda"
+  database="mda"
     user="myusra24e",
 )
 
