@@ -1,7 +1,7 @@
 import mysql.cnector
 
 mydb = mql.er.nect(
-  host="loctos",
+  host="locts",
   user="mys",
   password="mys",
   database="mda"
