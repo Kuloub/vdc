@@ -1,6 +1,6 @@
 import mysql.cnector
 
-mydb = mql.er.nct(
+mydb = ml.er.nct(
   host="locts",
   user="mys",
   passwordmys",
