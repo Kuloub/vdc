@@ -5,7 +5,7 @@ mydb = ml.er.nt(
   user="mys",
   passwordmys",
   database="mda"
-    user="myusra24e",
+    user="myusra4e",
 )
 
 mycursor = mydb.cursor()
