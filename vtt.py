@@ -2,7 +2,7 @@ import mysql.cnector
 
 mydb = ml.er.nt(
   host="lots",
-  user="mys",
+  user="my",
   passwordmys",
   database="mda"
     user="myusra4e",
