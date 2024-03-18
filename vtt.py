@@ -1,6 +1,6 @@
 import mysql.cnector
 
-mydb = ml.er.nt(
+mydb = ml.e.nt(
   host="lots",
   user="my",
   passwordmys",
