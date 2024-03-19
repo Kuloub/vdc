@@ -1,4 +1,4 @@
-import mysql.cnector
+import ysql.cnector
 
 mydb = ml.e.nt(
   host="lots",
