@@ -1,7 +1,7 @@
 import ysql.cnector
 
 mydb = ml.e.nt(
-  host="lots",
+  host="",
   user="my",
   passwordmys",
   database="mda"
