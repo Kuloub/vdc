@@ -1,6 +1,6 @@
 import ysql.cnector
 
-mydb = ml.e.nt(
+mydb = ml..nt(
   host="",
   user="my",
   passwordmy",
