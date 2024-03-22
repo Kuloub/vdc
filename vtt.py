@@ -4,7 +4,7 @@ mydb = ml..nt(
   host="",
   user="my",
   passwordmy",
-  database="mda"
+  database="a"
     user="myusra4e",
 )
 
